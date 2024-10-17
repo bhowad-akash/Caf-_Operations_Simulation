@@ -13,7 +13,7 @@ The simulation utilised data which included:
 * Order quantities and preparation times.
 * Staff allocation and table utilisation.
 ## Methodology
-Our approach combined observational data collection with advanced simulation techniques:
+The approach combined observational data collection with advanced simulation techniques:
 * **Data Collection:** Collected data throughout the café's operational hours.
 * **Model Building:** Used Simul8 to construct the simulation model, integrating real-time data inputs and outputs for a detailed operational analysis.
 * **Scenario Testing:** Conducted experiments within the simulation to find the most effective changes for reducing wait times and improving service.
